@@ -1,0 +1,51 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 18 May 2023 19:06:17 at https://html.waituk.com/roxine/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://html.waituk.com/roxine/index.html -O1 "C:\Users\rabah\Desktop\afye\projet" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:10:37	Error: 	"Not Found" (404) at link https://html.waituk.com/img/car.png (from https://html.waituk.com/roxine/css/main.css)
+19:10:37	Error: 	"Not Found" (404) at link https://html.waituk.com/img/nfl.png (from https://html.waituk.com/roxine/css/main.css)
+19:10:37	Error: 	"Not Found" (404) at link https://html.waituk.com/img/nba.png (from https://html.waituk.com/roxine/css/main.css)
+19:10:37	Error: 	"Not Found" (404) at link https://html.waituk.com/img/mlb.png (from https://html.waituk.com/roxine/css/main.css)
+19:10:37	Error: 	"Not Found" (404) at link https://html.waituk.com/img/flags.png (from https://html.waituk.com/roxine/css/main.css)
+19:10:37	Error: 	"Not Found" (404) at link https://html.waituk.com/roxine/img/Dest_B23516_39.jpg (from https://html.waituk.com/roxine/css/main.css)
+19:10:38	Error: 	"Not Found" (404) at link https://html.waituk.com/roxine/registration.html (from https://html.waituk.com/roxine/features-simple-mega.html)
+19:11:19	Error: 	"Not Found" (404) at link https://html.waituk.com/roxine/vendors/rev-slider/examples/- Original Previews -/duotone.html (from https://html.waituk.com/roxine/premium-slides.html)
+19:14:32	Error: 	"Not Found" (404) at link https://html.waituk.com/roxine/services.html (from https://html.waituk.com/roxine/features-left-overlay.html)
+19:14:32	Error: 	"Not Found" (404) at link https://html.waituk.com/roxine/blog.html (from https://html.waituk.com/roxine/features-left-overlay.html)
+19:14:32	Error: 	"Not Found" (404) at link https://html.waituk.com/roxine/media-agency.html (from https://html.waituk.com/roxine/features-left-overlay.html)
+19:14:32	Error: 	"Not Found" (404) at link https://html.waituk.com/roxine/architect.html (from https://html.waituk.com/roxine/features-left-overlay.html)
+19:14:32	Error: 	"Not Found" (404) at link https://html.waituk.com/roxine/portfolio-left-sidebar-6-col.html (from https://html.waituk.com/roxine/features-left-overlay.html)
+19:14:32	Error: 	"Not Found" (404) at link https://html.waituk.com/roxine/portfolio-right-sidebar-6-col.html (from https://html.waituk.com/roxine/features-left-overlay.html)
+19:14:32	Error: 	"Not Found" (404) at link https://html.waituk.com/roxine/portfolio-both-sidebar-2-col.html (from https://html.waituk.com/roxine/features-left-overlay.html)
+19:14:32	Error: 	"Not Found" (404) at link https://html.waituk.com/roxine/portfolio-both-sidebar-3-col.html (from https://html.waituk.com/roxine/features-left-overlay.html)
+19:14:32	Error: 	"Not Found" (404) at link https://html.waituk.com/roxine/portfolio-both-sidebar-4-col.html (from https://html.waituk.com/roxine/features-left-overlay.html)
+19:14:32	Error: 	"Not Found" (404) at link https://html.waituk.com/roxine/blog-default.html (from https://html.waituk.com/roxine/features-left-overlay.html)
+19:14:39	Error: 	"Not Found" (404) at link https://html.waituk.com/roxine/vendors/rev-slider/assets/images/ic_data_usage_24px.svg (from https://html.waituk.com/roxine/vendors/rev-slider/examples/- Original Previews -/innovation.html)
+19:14:39	Error: 	"Not Found" (404) at link https://html.waituk.com/roxine/vendors/rev-slider/assets/images/ic_expand_more_36px.svg (from https://html.waituk.com/roxine/vendors/rev-slider/examples/- Original Previews -/creative-frontpage.html)
+19:14:39	Error: 	"Not Found" (404) at link https://html.waituk.com/roxine/vendors/rev-slider/assets/images/character07.svg (from https://html.waituk.com/roxine/vendors/rev-slider/examples/- Original Previews -/interactive-whiteboard.html)
+19:14:39	Error: 	"Not Found" (404) at link https://html.waituk.com/roxine/vendors/rev-slider/assets/images/head-idea.svg (from https://html.waituk.com/roxine/vendors/rev-slider/examples/- Original Previews -/interactive-whiteboard.html)
+19:14:39	Error: 	"Not Found" (404) at link https://html.waituk.com/roxine/vendors/rev-slider/assets/images/head-check.svg (from https://html.waituk.com/roxine/vendors/rev-slider/examples/- Original Previews -/interactive-whiteboard.html)
+19:14:39	Error: 	"Not Found" (404) at link https://html.waituk.com/roxine/vendors/rev-slider/assets/images/user05.svg (from https://html.waituk.com/roxine/vendors/rev-slider/examples/- Original Previews -/interactive-whiteboard.html)
+19:14:39	Error: 	"Not Found" (404) at link https://html.waituk.com/roxine/vendors/rev-slider/assets/images/pencil.svg (from https://html.waituk.com/roxine/vendors/rev-slider/examples/- Original Previews -/interactive-whiteboard.html)
+19:14:39	Error: 	"Not Found" (404) at link https://html.waituk.com/roxine/vendors/rev-slider/assets/images/gauge.svg (from https://html.waituk.com/roxine/vendors/rev-slider/examples/- Original Previews -/interactive-whiteboard.html)
+19:14:39	Error: 	"Not Found" (404) at link https://html.waituk.com/roxine/vendors/rev-slider/assets/images/monitor.svg (from https://html.waituk.com/roxine/vendors/rev-slider/examples/- Original Previews -/interactive-whiteboard.html)
+19:14:39	Error: 	"Not Found" (404) at link https://html.waituk.com/roxine/vendors/rev-slider/assets/images/file05.svg (from https://html.waituk.com/roxine/vendors/rev-slider/examples/- Original Previews -/interactive-whiteboard.html)
+19:14:39	Error: 	"Not Found" (404) at link https://html.waituk.com/roxine/vendors/rev-slider/assets/images/arrow-right.svg (from https://html.waituk.com/roxine/vendors/rev-slider/examples/- Original Previews -/interactive-whiteboard.html)
+19:14:39	Error: 	"Not Found" (404) at link https://html.waituk.com/roxine/vendors/rev-slider/assets/images/preson-megaphone.svg (from https://html.waituk.com/roxine/vendors/rev-slider/examples/- Original Previews -/interactive-whiteboard.html)
+19:14:39	Error: 	"Not Found" (404) at link https://html.waituk.com/roxine/vendors/rev-slider/assets/images/chart02.svg (from https://html.waituk.com/roxine/vendors/rev-slider/examples/- Original Previews -/interactive-whiteboard.html)
+19:14:39	Error: 	"Not Found" (404) at link https://html.waituk.com/roxine/vendors/rev-slider/assets/images/award5.svg (from https://html.waituk.com/roxine/vendors/rev-slider/examples/- Original Previews -/interactive-whiteboard.html)
+19:14:39	Error: 	"Not Found" (404) at link img.youtube.com/vi/iNJdPyoqt8U/maxresdefault.jpg (from https://html.waituk.com/roxine/vendors/rev-slider/examples/- Original Previews -/premium-4kvideos.html)
+19:14:39	Error: 	"Not Found" (404) at link img.youtube.com/vi/gU10ALRQ0ww/maxresdefault.jpg (from https://html.waituk.com/roxine/vendors/rev-slider/examples/- Original Previews -/premium-4kvideos.html)
+19:14:39	Error: 	"Not Found" (404) at link https://www.sliderrevolution.com/templates/wp-content/uploads/revslider/express-web-product-dark/webproduct_darkbg3.jpg (from https://html.waituk.com/roxine/vendors/rev-slider/examples/- Original Previews -/carousel-gallery.html)
+19:14:39	Error: 	"Not Found" (404) at link https://html.waituk.com/roxine/vendors/rev-slider/examples/- Original Previews -/1&title=0&byline=0&portrait=0&api=1" (from https://html.waituk.com/roxine/vendors/rev-slider/examples/- Original Previews -/carousel-media.html)
+19:14:39	Warning: 	Retry after error -5 (Unable to get server's address: Hôte inconnu. ) at link server.local/revslider/wp-content/uploads/uploads/revslider/anothercarousel/webproduct_darkbg3.jpg (from https://html.waituk.com/roxine/vendors/rev-slider/examples/- Original Previews -/carousel-showcase.html)
+19:14:45	Error: 	"Not Found" (404) at link https://html.waituk.com/roxine/vendors/rev-slider/examples/- Original Previews -/{{link}} (from https://html.waituk.com/roxine/vendors/rev-slider/examples/- Original Previews -/gallery-light.html)
+19:14:48	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link server.local/revslider/wp-content/uploads/uploads/revslider/anothercarousel/webproduct_darkbg3.jpg (from https://html.waituk.com/roxine/vendors/rev-slider/examples/- Original Previews -/carousel-showcase.html)
+19:14:54	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link server.local/revslider/wp-content/uploads/uploads/revslider/anothercarousel/webproduct_darkbg3.jpg (from https://html.waituk.com/roxine/vendors/rev-slider/examples/- Original Previews -/carousel-showcase.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 8 minutes 37 seconds : 962 links scanned, 921 files written (72148092 bytes overall) [56620382 bytes received at 109517 bytes/sec], 20732201 bytes transferred using HTTP compression in 288 files, ratio 23%, 14.8 requests per connection
+(38 errors, 2 warnings, 0 messages)
